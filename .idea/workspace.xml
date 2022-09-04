@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b734c3a-70ca-468d-a21b-8f6378491990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/domain/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/domain/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/domain/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/repository/BlockingItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/repository/CartRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/repository/ItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/repository/RepositoryDatabaseLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/repository/TemplateDatabaseLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/src/main/resources/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-practical-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-practical-practice.iml" afterDir="false" />
+    <list default="true" id="8b734c3a-70ca-468d-a21b-8f6378491990" name="Changes" comment="chapter2">
+      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2b/src/main/java/com/example/chapter2b/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2b/src/main/java/com/example/chapter2b/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2b/src/main/java/com/example/chapter2b/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2b/src/main/java/com/example/chapter2b/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2b/src/main/java/com/example/chapter2b/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2b/src/main/java/com/example/chapter2b/ItemByExampleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2b/src/main/java/com/example/chapter2b/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2b/src/main/java/com/example/chapter2b/TemplateDatabaseLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/repository/TemplateDatabaseLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/example/chapter2/repository/TemplateDatabaseLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,14 +32,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="Interface" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,21 +60,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.chapter2b" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.Chapter2Application">
     <configuration name="Chapter2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="chapter2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.chapter2.Chapter2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter2bApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter2b" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.chapter2b.Chapter2bApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,8 +101,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662031097834</updated>
-      <workItem from="1662031100109" duration="5166000" />
+      <workItem from="1662031100109" duration="5837000" />
+      <workItem from="1662286475694" duration="1488000" />
     </task>
+    <task id="LOCAL-00001" summary="chapter2">
+      <created>1662201092717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662201092717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chapter2">
+      <created>1662201116149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662201116149</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chapter2" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter2" />
   </component>
 </project>
